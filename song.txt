@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
 welcome to kumrambheem
-=======
-welcome to kumram
->>>>>>> 898b9f00e0ed276265bfc5524b3406b30d33cc29
 welcome to railway station
 welcome to tribal region 
 welcome to the party
@@ -12,5 +8,3 @@ welcome to the party
 
 
 
-welcome to asada
-dsafasaasf
